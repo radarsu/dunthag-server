@@ -1,0 +1,10 @@
+{
+    "apps": [{
+        "name": "dunthag-server",
+        "script": "/home/radarsu/apps/shard/dunthag-server/app.ts",
+        "env": {
+            "NODE_ENV": "development"
+        },
+        "args": ""
+    }]
+}

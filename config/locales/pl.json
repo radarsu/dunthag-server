@@ -1,0 +1,22 @@
+{
+	"loading libraries": "loading libraries",
+	"configuration": "configuration",
+	"value": "value",
+	"server language": "server language",
+	"logging level": "logging level",
+	"database migrate": "database migrate",
+	"running required launch tasks": "running required launch tasks",
+	"running required late launch tasks": "running required late launch tasks",
+	"[error (e_validation) 1 attribute is invalid] invalid attributes sent to character:\n • name\n   • \"required\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined\n   • \"minlength\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined\n": "[error (e_validation) 1 attribute is invalid] invalid attributes sent to character:\n • name\n   • \"required\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined\n   • \"minlength\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined\n",
+	"an error occurred": "an error occurred",
+	"name": "name",
+	"\"required\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined,\"minlength\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined": "\"required\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined,\"minlength\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined",
+	"invalid field": "invalid field",
+	"\"required\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined": "\"required\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined",
+	"\"minlength\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined": "\"minlength\" validation rule failed for input: ''\nspecifically, it threw an error.  details:\n undefined",
+	"\"minlength\" validation rule failed for input: 'a'\nspecifically, it threw an error.  details:\n undefined": "\"minlength\" validation rule failed for input: 'a'\nspecifically, it threw an error.  details:\n undefined",
+	"required": "required",
+	"minlength": "minlength",
+	"[error (e_unknown) encountered an unexpected error] ": "[error (e_unknown) encountered an unexpected error] ",
+	"unique": "unique"
+}
